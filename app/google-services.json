@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "674873578081",
+    "firebase_url": "https://elderlycare-19d19.firebaseio.com",
+    "project_id": "elderlycare-19d19",
+    "storage_bucket": "elderlycare-19d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674873578081:android:f363407d1d70e5c1",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674873578081-j8nh4r3scu90bu4ebajsgccmutmlsing.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirstapp",
+            "certificate_hash": "7429738ea44a11e9cec343067d7e7476285bdda7"
+          }
+        },
+        {
+          "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttgxQZDw-k1bKFc8lpwnJOhRwgV9T9h0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674873578081:android:a703bba58a716b7d",
+        "android_client_info": {
+          "package_name": "com.example.tirza.elderlycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674873578081-dim5q4f7tbq777a3lbvl3pia4aqc3vl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tirza.elderlycare",
+            "certificate_hash": "fdf61fee35fc05acd43e6f31397a0bd84c8ab292"
+          }
+        },
+        {
+          "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttgxQZDw-k1bKFc8lpwnJOhRwgV9T9h0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674873578081:android:cb15738132a4f618",
+        "android_client_info": {
+          "package_name": "com.example.tirza.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674873578081-8j4ofsp9760jh4r8alt9f4dtos506odk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tirza.registration",
+            "certificate_hash": "fdf61fee35fc05acd43e6f31397a0bd84c8ab292"
+          }
+        },
+        {
+          "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttgxQZDw-k1bKFc8lpwnJOhRwgV9T9h0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674873578081-3i26oivoj6sekudgf5vlijgc3hveenlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
